@@ -1,2 +1,2 @@
-# repositorio
+# Mi primer README
 Practicas
